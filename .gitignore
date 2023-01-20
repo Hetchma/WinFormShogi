@@ -73,7 +73,7 @@ StyleCopReport.xml
 *.obj
 *.iobj
 *.pch
-*.pdb
+# *.pdb
 *.ipdb
 *.pgc
 *.pgd
@@ -103,7 +103,7 @@ ipch/
 *.opendb
 *.opensdf
 *.sdf
-*.cachefile
+# *.cachefile
 *.VC.db
 *.VC.VC.opendb
 
@@ -218,9 +218,9 @@ _pkginfo.txt
 
 # Visual Studio cache files
 # files ending in .cache can be ignored
-*.[Cc]ache
+# *.[Cc]ache
 # but keep track of directories ending in .cache
-!?*.[Cc]ache/
+# !?*.[Cc]ache/
 
 # Others
 ClientBin/
