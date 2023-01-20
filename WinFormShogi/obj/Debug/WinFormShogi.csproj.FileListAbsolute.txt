@@ -1,0 +1,10 @@
+C:\Users\202011game\Desktop\MyCsharpProjects\WinFormShogi\WinFormShogi\bin\Debug\WinFormShogi.exe.config
+C:\Users\202011game\Desktop\MyCsharpProjects\WinFormShogi\WinFormShogi\bin\Debug\WinFormShogi.exe
+C:\Users\202011game\Desktop\MyCsharpProjects\WinFormShogi\WinFormShogi\bin\Debug\WinFormShogi.pdb
+C:\Users\202011game\Desktop\MyCsharpProjects\WinFormShogi\WinFormShogi\obj\Debug\WinFormShogi.csprojAssemblyReference.cache
+C:\Users\202011game\Desktop\MyCsharpProjects\WinFormShogi\WinFormShogi\obj\Debug\WinFormShogi.Form1.resources
+C:\Users\202011game\Desktop\MyCsharpProjects\WinFormShogi\WinFormShogi\obj\Debug\WinFormShogi.Properties.Resources.resources
+C:\Users\202011game\Desktop\MyCsharpProjects\WinFormShogi\WinFormShogi\obj\Debug\WinFormShogi.csproj.GenerateResource.cache
+C:\Users\202011game\Desktop\MyCsharpProjects\WinFormShogi\WinFormShogi\obj\Debug\WinFormShogi.csproj.CoreCompileInputs.cache
+C:\Users\202011game\Desktop\MyCsharpProjects\WinFormShogi\WinFormShogi\obj\Debug\WinFormShogi.exe
+C:\Users\202011game\Desktop\MyCsharpProjects\WinFormShogi\WinFormShogi\obj\Debug\WinFormShogi.pdb
